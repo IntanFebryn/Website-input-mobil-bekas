@@ -3,7 +3,7 @@
 [![Passing build](https://img.shields.io/badge/build-passing-green.svg)](https://github.com/IntanFebryn)
 Website yang khusus untuk menginput data penjualan 
 
-# Requirements
+# Persyaratan
 * PHP >= 5.3.7
 * Koneksi Internet
 * XAMPP / MAMPP
@@ -11,3 +11,6 @@ Website yang khusus untuk menginput data penjualan
 
 # instalasi
 `download file dengan nama repositori website-input-mobil-bekas`
+
+# bahasa pemprograman
+`php`
